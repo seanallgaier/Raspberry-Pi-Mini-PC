@@ -1,5 +1,3 @@
-===================================================================================================
-
 # About:
 
 Raspberry Pi - Mini PC
@@ -11,34 +9,20 @@ Yes, it is a fully functional computer with working ports and a functional mini 
 
 This was built as a 2024 christmas gift for my girlfriend <3
 
-===================================================================================================
-
 # Credits
 
-Inspired by u/Formal-Shallot-595 and u/mr_deelee on Reddit.
+Inspired by [u/Formal-Shallot-59](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/1dxx3cd/introducing_retropooter_raspi_5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)5 and [u/mr_deelee](https://www.reddit.com/r/prusa3d/comments/180rmmo/raspberry_pi_retro_pc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) on Reddit.
 
-https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/1dxx3cd/introducing_retropooter_raspi_5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
-
-https://www.reddit.com/r/prusa3d/comments/180rmmo/raspberry_pi_retro_pc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
-
-===================================================================================================
-
-Using 3D models designed by @fantasticmrda_133107 on Printables.com.
-
-https://www.printables.com/model/654635-retro-desktop-pc-raspberry-pi-case#preview.aiXwf
-
-===================================================================================================
+Using 3D models designed by [@fantasticmrda_133107](https://www.printables.com/model/654635-retro-desktop-pc-raspberry-pi-case#preview.aiXwf) on Printables.com.
 
 # Specs: 
-	Raspberry Pi 4b
-	Operating System: Ubuntu 24.04.1 LTS
-	Memory: 2gb
-	Storage: 
-		128gb SD Card	
-===================================================================================================
+- Raspberry Pi 4b
+- Operating System: Ubuntu 24.04.1 LTS
+- Memory: 2gb
+- Storage: 128gb SD Card	
 
 # Custom Features
 
-- Also located on the desktop, I have programmed shortcuts for the following:
+- Located on the desktop, I have programmed shortcuts for the following:
    - Multiple scripts that displays different kinds of slideshows that are custom tailored for her (completed)
-   - A script that plays a very special music library that is custom made for you (completed)
+   - A script that plays a very special music library that is custom made with favorite music (completed)
