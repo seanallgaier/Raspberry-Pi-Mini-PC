@@ -29,4 +29,4 @@ This was built as a 2024 christmas gift for my girlfriend <3
    - A script that plays a very special music library that is custom made with her favorite music (completed)
      - Uses [kew](https://github.com/ravachol/kew) to play the music within the terminal
 
-    - I have included examples to demonstrate how I set up the slideshow and music scripts.
+    - I've included some examples to demonstrate how the slideshow and music scripts were designed.
