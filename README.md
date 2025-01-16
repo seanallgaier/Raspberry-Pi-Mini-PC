@@ -5,7 +5,7 @@ By Sean Allgaier
 
 This is a mini "PC" running on a Raspberry Pi 4b and was made with 3D printed parts and cheap components bought off of AliExpress and other cheap electronics retailers.
 
-Yes, it is a fully functional computer with working ports and a functional mini keyboard to go along with it. (If the included keyboard is too small you can always plug in any regular usb keyboard).
+Yes, it is a fully functional computer with working ports and a functional mini keyboard to go along with it. 
 
 This was built as a 2024 christmas gift for my girlfriend <3
 
