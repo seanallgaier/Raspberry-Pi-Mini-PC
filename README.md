@@ -1,1 +1,1 @@
-# raspberry_pi_mini_pc
+# Raspberry Pi Mini PC
