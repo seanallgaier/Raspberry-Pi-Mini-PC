@@ -1,4 +1,4 @@
-# About:
+# About
 
 Raspberry Pi - Mini PC
 By Sean Allgaier
