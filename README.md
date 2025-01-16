@@ -11,9 +11,9 @@ This was built as a 2024 christmas gift for my girlfriend <3
 
 # Credits
 
-Inspired by [u/Formal-Shallot-59](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/1dxx3cd/introducing_retropooter_raspi_5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)5 and [u/mr_deelee](https://www.reddit.com/r/prusa3d/comments/180rmmo/raspberry_pi_retro_pc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) on Reddit.
+- Inspired by [u/Formal-Shallot-59](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/1dxx3cd/introducing_retropooter_raspi_5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)5 and [u/mr_deelee](https://www.reddit.com/r/prusa3d/comments/180rmmo/raspberry_pi_retro_pc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) on Reddit.
 
-Using 3D models designed by [@fantasticmrda_133107](https://www.printables.com/model/654635-retro-desktop-pc-raspberry-pi-case#preview.aiXwf) on Printables.com.
+- Using 3D models designed by [@fantasticmrda_133107](https://www.printables.com/model/654635-retro-desktop-pc-raspberry-pi-case#preview.aiXwf) on Printables.com.
 
 # Specs: 
 - Raspberry Pi 4b
