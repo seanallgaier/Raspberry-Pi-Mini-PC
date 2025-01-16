@@ -19,10 +19,12 @@ This was built as a 2024 christmas gift for my girlfriend <3
 - Raspberry Pi 4b
 - Operating System: Ubuntu 24.04.1 LTS
 - Memory: 2gb
-- Storage: 128gb SD Card	
+- Storage: 128gb Micro SD Card	
 
 # Custom Features
 
 - Located on the desktop, I have programmed shortcuts for the following:
-   - Multiple scripts that displays different kinds of slideshows that are custom tailored for her (completed)
+   - Multiple bash scripts that displays different kinds of slideshows that are custom tailored for her (completed)
+     - Uses [feh](https://github.com/derf/feh) to display the slideshows 
    - A script that plays a very special music library that is custom made with favorite music (completed)
+     - Uses [kew](https://github.com/ravachol/kew) to play the music within the terminal
